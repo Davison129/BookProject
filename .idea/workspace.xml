@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d9291c8-5fc5-45c2-a9dd-28501a2457e1" name="Default Changelist" comment="" />
+    <list default="true" id="6d9291c8-5fc5-45c2-a9dd-28501a2457e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site-webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/css/maven-base.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/site-webapp/css/maven-base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/css/maven-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/site-webapp/css/maven-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site-webapp/css/print.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/site-webapp/css/print.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +178,7 @@
       <workItem from="1582205264944" duration="20871000" />
       <workItem from="1582275671996" duration="190000" />
       <workItem from="1582276052120" duration="1509000" />
-      <workItem from="1582277593664" duration="1412000" />
+      <workItem from="1582277593664" duration="1992000" />
     </task>
     <servers />
   </component>
